@@ -1,0 +1,3 @@
+__Neighbor Escape Development Kit © 2026 by KitiShow0 Dev is licensed under CC BY-NC-SA 4.0__
+
+Work In Progress...
